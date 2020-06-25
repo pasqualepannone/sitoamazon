@@ -27,6 +27,14 @@ p {
   line-height: 2rem;
 }
 
+#share-buttons img {
+width: 35px;
+padding: 5px;
+border: 0;
+box-shadow: 0;
+display: inline;
+}
+
 .sidenav-trigger {
   color: #0E0706;
 }
