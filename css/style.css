@@ -19,6 +19,7 @@ nav .brand-logo {
   color: #e040fb;
 }
 
+
 nav .brand-logo{
   font-family: 'Satisfy', cursive;
 }
@@ -28,7 +29,7 @@ p {
 }
 
 .sidenav-trigger {
-  color: #0E0706;
+  color: #e040fb;
 }
 
 .parallax-container {
@@ -66,6 +67,10 @@ p {
     top: 0;
   }
 
+  .sidenav-overlay{
+    background-color: rgb(0 0 0 / 0%);
+
+  }
     nav .nav-wrapper {
      padding: 0 10px;
   }
