@@ -7,7 +7,8 @@
  */
 
 body{
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Anton', sans-serif;
+  background-color: rgb(255 247 0);
 }
 
 nav .nav-wrapper {
