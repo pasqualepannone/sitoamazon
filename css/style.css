@@ -71,6 +71,12 @@ p {
     background-color: rgb(0 0 0 / 0%);
 
   }
+   nav .nav-wrapper {
+     position: relative;
+     height: 176%;
+   }
+  
+
     nav .nav-wrapper {
      padding: 0 10px;
   }
