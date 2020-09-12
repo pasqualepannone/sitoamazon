@@ -7,7 +7,7 @@
  */
 
 body{
-  font-family: 'Anton', sans-serif;
+  font-family: 'Fredoka One', cursive;
   background-color: rgb(255 247 0);
 }
 
@@ -16,7 +16,7 @@ nav .nav-wrapper {
 }
 
 .bottone{
-  font-family: 'Anton', sans-serif;
+  font-family: 'Fredoka One', cursive;
 }
 nav ul a,
 nav .brand-logo {
@@ -54,6 +54,10 @@ p {
  .header-subtitle{
   margin-top: 10%;
   font-size: 1.3em;
+ }
+
+ .colore-bullpoint{
+  color: #ea80fc ;
  }
 
 @media only screen and (max-width : 992px) {
@@ -126,6 +130,10 @@ p {
 .descrizione-icons{
   font-size: 7em;
   margin-top: 60px;
+}
+
+.colore-titolo{
+  color: #ffffff;
 }
 
 .paragrato-descrizione{
