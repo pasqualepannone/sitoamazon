@@ -11,6 +11,44 @@ body{
   background-color: rgb(255 247 0);
 }
 
+#navbarre .conta{
+    background: #ffffff;
+    height: 70px;
+}
+
+.conta{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.conta ul{
+  display: flex;
+  }
+
+.conta ul a:hover{
+  color: #ffff00;
+  background: #ffffff;
+    
+}
+
+.conta ul a{
+  text-decoration: none;
+  color: #9c27b0;
+
+  
+}
+
+.conta ul li{
+  list-style: none;
+}
+
+#navbarre .conta a img{
+     width: 120px;
+     padding-left: 2rem;
+}
+
+
 nav .nav-wrapper {
     padding: 0 50px;
 }
@@ -71,6 +109,17 @@ p {
 }
 
 @media only screen and (max-width : 600px) {
+
+    .conta ul a {
+    text-decoration: none;
+    color: #9c27b0;
+   }
+
+   #navbarre .conta a img {
+    width: 100px;
+    padding-left: 1rem;
+  }
+
   #index-banner .section {
     top: 0;
   }
