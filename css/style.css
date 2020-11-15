@@ -113,11 +113,11 @@ p {
     .conta ul a {
     text-decoration: none;
     color: #9c27b0;
-    padding: 7px;
+    padding-right: 5;
    }
 
    #navbarre .conta a img {
-    width: 90px;
+    width: 80px;
     padding-left: 1rem;
   }
 
